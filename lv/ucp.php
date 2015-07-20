@@ -101,21 +101,28 @@ $lang = array_merge($lang, array(
 	'ADD_FRIENDS_EXPLAIN'			=> 'Jūs varat pievienot vairākus lietotājus, bet katru savu līnījā.',
 
 	'ADD_NEW_RULE'					=> 'Pievienot jaunu noteikumu',
-	'ADD_RULE'						=> 'Add rule',
-	'ADD_TO'						=> 'Add [To]',
-	'ADD_USERS_UCP_EXPLAIN'			=> 'Here you can add new users to the group. You may select whether this group becomes the new default for the selected users. Please enter each username on a separate line.',
-	'ADMIN_EMAIL'					=> 'Administrators can email me information',
-	'AGREE'							=> 'I agree to these terms',
-	'ALLOW_PM'						=> 'Allow users to send you private messages',
-	'ALLOW_PM_EXPLAIN'				=> 'Note that administrators and moderators will always be able to send you messages.',
-	'ALREADY_ACTIVATED'				=> 'You have already activated your account.',
-	'ATTACHMENTS_EXPLAIN'			=> 'This is a list of attachments you have made in posts to this board.',
-	'ATTACHMENTS_DELETED'			=> 'Attachments successfully deleted.',
-	'ATTACHMENT_DELETED'			=> 'Attachment successfully deleted.',
-	'AUTOLOGIN_SESSION_KEYS_DELETED'=> 'The selected "Remember Me" login keys were successfully deleted.',
-	'AVATAR_CATEGORY'				=> 'Category',
-	'AVATAR_DRIVER_GRAVATAR_TITLE'	=> 'Gravatar',
-	'AVATAR_DRIVER_GRAVATAR_EXPLAIN'=> 'Gravatar is a service that allows you to maintain the same avatar across multiple websites. Visit <a href="http://www.gravatar.com/">Gravatar</a> for more information.',
+	'ADD_RULE'						=> 'Pievienot noteikumu',
+	'ADD_TO'						=> 'Pievienot [Kam]',
+	'ADD_USERS_UCP_EXPLAIN'			=> 'Šeit jūs varat pievienot jaunus lietotājus grupai. Jūs varat izvēlēties, vai šī grupa kļūs par grupu pēc noklusējuma pievienotajiem lietotājiem. Ievadiet katru lietotājvārdu atsevišķā līnijā.',
+	'ADMIN_EMAIL'					=> 'Saņemt e-pastu no administrācijas',
+	'AGREE'							=> 'Piekrītu noteikumiem',
+	'ALLOW_PM'						=> 'Ļaut lietotajiem sūtīt jums privātas ziņas',
+	'ALLOW_PM_EXPLAIN'				=> 'Atcerieties, ka moderatori un administratori var vienmēr jums sūtīt privātās ziņas.',
+	'ALREADY_ACTIVATED'				=> 'Jūs jau esat aktivizējuši savu lietotāja kontu.',
+	
+	
+	
+	
+	
+	
+	'ATTACHMENTS_EXPLAIN'			=> 'Šis ir jūsu pielikumu sarakstss.',
+	'ATTACHMENTS_DELETED'			=> 'Pielikumi veiksmīgi dzēsti.',
+	'ATTACHMENT_DELETED'			=> 'Pielikums veiksmīgi dzēsts.',
+	'AUTOLOGIN_SESSION_KEYS_DELETED'=> 'Izvēlētā "Atcerēties Mani" pieteikšanās poga tika veiksmīgi dzēsta.',
+	'AVATAR_CATEGORY'				=> 'Kategorija',
+	'AVATAR_DRIVER_GRAVATAR_TITLE'	=> 'Gravatar - Globāli Atpazīstams Avatars',
+	//http://aiz.miga.lv/2007/02/16/gravatar-atgriezas
+	'AVATAR_DRIVER_GRAVATAR_EXPLAIN'=> 'Gravatar ir serviss, kas ļauj uzturēt vienu atveidu vairākās web vietnēs. Apmeklējiet <a href="http://www.gravatar.com/">Gravatar</a>, lai iegūtu vairāk informācijas.',
 	'AVATAR_DRIVER_LOCAL_TITLE'		=> 'Gallery avatar',
 	'AVATAR_DRIVER_LOCAL_EXPLAIN'	=> 'You can choose your avatar from a locally available set of avatars.',
 	'AVATAR_DRIVER_REMOTE_TITLE'	=> 'Remote avatar',
