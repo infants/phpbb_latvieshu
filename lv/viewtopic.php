@@ -1,4 +1,5 @@
 <?php
+
 /**
 *
 * This file is part of the phpBB Forum Software package.
@@ -43,43 +44,46 @@ $lang = array_merge($lang, array(
 
 	'BOOKMARK_ADDED'		=> 'Tēma pievienota grāmatzīmei.',
 	'BOOKMARK_ERR'			=> 'Neizdevās tēmu pievienota grāmatzīmei. Lūdzu, mēģiniet vēlreiz.',
-	'BOOKMARK_TOPIC'		=> 'Bookmark topic',
-	'BOOKMARK_TOPIC_REMOVE'	=> 'Remove from bookmarks',
+	'BOOKMARK_REMOVED'		=> 'Iegrāmatotā tēma veiksmīgi noņemta.',
+	'BOOKMARK_TOPIC'		=> 'Iegrāmatot tēmu',
+	'BOOKMARK_TOPIC_REMOVE'	=> 'Izņemt no grāmatzīmēm',
 	'BUMPED_BY'				=> 'Last bumped by %1$s on %2$s.',
+	//Last bumped by = Pēdjais saskāries vai labāk pēdējais sadūries
+	//http://www.thefreedictionary.com/bumped
 	'BUMP_TOPIC'			=> 'Bump topic',
 
-	'CODE'					=> 'Code',
+	'CODE'					=> 'Kods',
 
-	'DELETE_TOPIC'			=> 'Delete topic',
-	'DELETED_INFORMATION'	=> 'Deleted by %1$s on %2$s',
-	'DISAPPROVE'					=> 'Disapprove',
-	'DOWNLOAD_NOTICE'		=> 'You do not have the required permissions to view the files attached to this post.',
+	'DELETE_TOPIC'			=> 'Dzēst tēmu',
+	'DELETED_INFORMATION'	=> 'Dzēsis %1$s - %2$s',
+	'DISAPPROVE'					=> 'Neatļaut',
+	'DOWNLOAD_NOTICE'		=> 'Jums nav nepieciešamās tiesības, lai redzētu šim rakstam pievienotos failus.',
 
 	'EDITED_TIMES_TOTAL'	=> array(
-		1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
-		2	=> 'Last edited by %2$s on %3$s, edited %1$d times in total.',
+		1	=> 'Pēdējais laboja %2$s - %3$s, laboja %1$d kopējais laiks.',
+		2	=> 'Pēdējais laboja %2$s - %3$s, laboja %1$d kopējais laiks.',
 	),
-	'EMAIL_TOPIC'			=> 'Email topic',
-	'ERROR_NO_ATTACHMENT'	=> 'The selected attachment does not exist anymore.',
+	'EMAIL_TOPIC'			=> 'E-pasta tēma',
+	'ERROR_NO_ATTACHMENT'	=> 'Izvēlētais pielikums vairs neeksistē.',
 
-	'FILE_NOT_FOUND_404'	=> 'The file <strong>%s</strong> does not exist.',
-	'FORK_TOPIC'			=> 'Copy topic',
-	'FULL_EDITOR'			=> 'Full Editor &amp; Preview',
+	'FILE_NOT_FOUND_404'	=> 'Fails <strong>%s</strong> nav atrasts.',
+	'FORK_TOPIC'			=> 'Kopēt tēmu',
+	'FULL_EDITOR'			=> 'Pilnekrāna redaktors &amp; Priekšskatīt',
 
-	'LINKAGE_FORBIDDEN'		=> 'You are not authorised to view, download or link from/to this site.',
-	'LOGIN_NOTIFY_TOPIC'	=> 'You have been notified about this topic, please login to view it.',
-	'LOGIN_VIEWTOPIC'		=> 'The board requires you to be registered and logged in to view this topic.',
+	'LINKAGE_FORBIDDEN'		=> 'Jums nav atļauju, lai skatītu, lejupielādētu vai pievienot saiti no/ uz šo vietni.',
+	'LOGIN_NOTIFY_TOPIC'	=> 'Jūs esat saņēmis paziņojumu par jaunu atbildi tēmā. Ielogojieties lai to apskatītu.',
+	'LOGIN_VIEWTOPIC'		=> 'Jums ir nepieciešams ielogoties lai aspkatītu šo tēmu.',
 
-	'MAKE_ANNOUNCE'				=> 'Change to “Announcement”',
-	'MAKE_GLOBAL'				=> 'Change to “Global”',
-	'MAKE_NORMAL'				=> 'Change to “Standard Topic”',
-	'MAKE_STICKY'				=> 'Change to “Sticky”',
+	'MAKE_ANNOUNCE'				=> 'Mainīt uz “Paziņojums”',
+	'MAKE_GLOBAL'				=> 'Mainīt uz “Svarīgs paziņojums”',
+	'MAKE_NORMAL'				=> 'Mainīt uz “Parasta tēma”',
+	'MAKE_STICKY'				=> 'Mainīt uz “Piestiprināts”',
 	'MAX_OPTIONS_SELECT'		=> array(
-		1	=> 'You may select <strong>%d</strong> option',
-		2	=> 'You may select up to <strong>%d</strong> options',
+		1	=> 'Var izvēlēties līdz <strong>%d</strong> atbilžu variantiem',
+		2	=> 'Var izvēlēties līdz <strong>%d</strong> atbilžu variantiem',
 	),
-	'MISSING_INLINE_ATTACHMENT'	=> 'The attachment <strong>%s</strong> is no longer available',
-	'MOVE_TOPIC'				=> 'Move topic',
+	'MISSING_INLINE_ATTACHMENT'	=> 'Pielikums <strong>%s</strong> vairs nav pieejams',
+	'MOVE_TOPIC'				=> 'Pārvietot tēmu',
 
 	'NO_ATTACHMENT_SELECTED'=> 'You haven’t selected an attachment to download or view.',
 	'NO_NEWER_TOPICS'		=> 'There are no newer topics in this forum.',
