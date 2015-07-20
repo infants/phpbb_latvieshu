@@ -123,13 +123,20 @@ $lang = array_merge($lang, array(
 	'AVATAR_DRIVER_GRAVATAR_TITLE'	=> 'Gravatar - Globāli Atpazīstams Avatars',
 	//http://aiz.miga.lv/2007/02/16/gravatar-atgriezas
 	'AVATAR_DRIVER_GRAVATAR_EXPLAIN'=> 'Gravatar ir serviss, kas ļauj uzturēt vienu atveidu vairākās web vietnēs. Apmeklējiet <a href="http://www.gravatar.com/">Gravatar</a>, lai iegūtu vairāk informācijas.',
-	'AVATAR_DRIVER_LOCAL_TITLE'		=> 'Gallery avatar',
-	'AVATAR_DRIVER_LOCAL_EXPLAIN'	=> 'You can choose your avatar from a locally available set of avatars.',
-	'AVATAR_DRIVER_REMOTE_TITLE'	=> 'Remote avatar',
-	'AVATAR_DRIVER_REMOTE_EXPLAIN'	=> 'Link to avatar images from another website.',
-	'AVATAR_DRIVER_UPLOAD_TITLE'	=> 'Upload avatar',
-	'AVATAR_DRIVER_UPLOAD_EXPLAIN'	=> 'Upload your own custom avatar.',
-	'AVATAR_EXPLAIN'				=> 'Maximum dimensions; width: %1$s, height: %2$s, file size: %3$.2f KiB.',
+	
+	
+	
+	
+	
+	
+	
+	'AVATAR_DRIVER_LOCAL_TITLE'		=> 'Avataru galerija',
+	'AVATAR_DRIVER_LOCAL_EXPLAIN'	=> 'Varat izvēlēties savu avataru no lokāli pieejamiem avatāriem.',
+	'AVATAR_DRIVER_REMOTE_TITLE'	=> 'Atālinātais Avatārs',
+	'AVATAR_DRIVER_REMOTE_EXPLAIN'	=> 'Saite uz avatāra bildi not citas websaites.',
+	'AVATAR_DRIVER_UPLOAD_TITLE'	=> 'Augšupielādēt avatāru',
+	'AVATAR_DRIVER_UPLOAD_EXPLAIN'	=> 'Augšupielādēt jūsu avatāru.',
+	'AVATAR_EXPLAIN'				=> 'Maksimālais izmērs; platums: %1$s, augstums: %2$s, faila izmērs: %3$.2f KiB.',
 	'AVATAR_FEATURES_DISABLED'		=> 'The avatar functionality is currently disabled.',
 	'AVATAR_GALLERY'				=> 'Local gallery',
 	'AVATAR_GENERAL_UPLOAD_ERROR'	=> 'Could not upload avatar to %s.',
