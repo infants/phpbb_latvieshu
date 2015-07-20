@@ -1,4 +1,7 @@
 <?php
+// Šito nevajag tulkot!!!
+// Šis te ir atlikums no vecā čata.
+//
 if (!defined('IN_PHPBB')) exit;
 if (empty($lang) || !is_array($lang)) $lang = array();
 
