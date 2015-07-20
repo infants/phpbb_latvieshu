@@ -37,36 +37,36 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Active topics',
-	'ANNOUNCEMENTS'			=> 'Announcements',
+	'ACTIVE_TOPICS'			=> 'Aktīvās tēmas',
+	'ANNOUNCEMENTS'			=> 'Paziņojumi',
 
-	'FORUM_PERMISSIONS'		=> 'Forum permissions',
+	'FORUM_PERMISSIONS'		=> 'Foruma tiesības',
 
-	'ICON_ANNOUNCEMENT'		=> 'Announcement',
-	'ICON_STICKY'			=> 'Sticky',
+	'ICON_ANNOUNCEMENT'		=> 'Paziņojums',
+	'ICON_STICKY'			=> 'Piestiprināts',
 
-	'LOGIN_NOTIFY_FORUM'	=> 'You have been notified about this forum, please login to view it.',
+	'LOGIN_NOTIFY_FORUM'	=> 'Jūs esat saņēmuši paziņojumu par jaunumiem šajā forumā. Lūdzu ielogojieties, lai tos apskatītu..',
 
-	'MARK_TOPICS_READ'		=> 'Mark topics read',
+	'MARK_TOPICS_READ'		=> 'Atzīmēt tēmas kā izlasītas',
 
-	'NEW_POSTS_HOT'			=> 'New posts [ Popular ]',	// Not used anymore
-	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
-	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
-	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'You do not have the required permissions to read topics within this forum.',
-	'NO_UNREAD_POSTS_HOT'		=> 'No unread posts [ Popular ]',
-	'NO_UNREAD_POSTS_LOCKED'	=> 'No unread posts [ Locked ]',
+	'NEW_POSTS_HOT'			=> 'Jauni ieraksti [ Populāri ]',	// Not used anymore
+	'NEW_POSTS_LOCKED'		=> 'Jauni ieraksti [ Slēgti ]',	// Not used anymore
+	'NO_NEW_POSTS_HOT'		=> 'Nav jaunu ierakstu [ Populāri ]',	// Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'Nav jaunu ierakstu [ Slēgti ],	// Not used anymore
+	'NO_READ_ACCESS'		=> 'Jums nav tiesības, lai lasītu ziņas šajā forumā.',
+	'NO_UNREAD_POSTS_HOT'		=> 'Nav nelasītu ziņu [ Populāri ]',
+	'NO_UNREAD_POSTS_LOCKED'	=> 'Nav nelasītu ziņu [ Slēgti ]]',
 
-	'POST_FORUM_LOCKED'		=> 'Forum is locked',
+	'POST_FORUM_LOCKED'		=> 'Forums ir slēgts',
 
-	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
+	'TOPICS_MARKED'			=> 'Šī foruma tēmas Jums tagad ir atzīmētas kā izlasītas.',
 
-	'UNREAD_POSTS_HOT'		=> 'Unread posts [ Popular ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Unread posts [ Locked ]',
+	'UNREAD_POSTS_HOT'		=> 'Nelasītās ziņas [ Populāri ]',
+	'UNREAD_POSTS_LOCKED'	=> 'Nelasītās ziņas [ Slēgti ]',
 
-	'VIEW_FORUM'			=> 'View forum',
+	'VIEW_FORUM'			=> 'Lasīt forumu',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d tēma',
+		2	=> '%d tēmas',
 	),
 ));
