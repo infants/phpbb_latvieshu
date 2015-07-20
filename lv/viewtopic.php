@@ -79,7 +79,7 @@ $lang = array_merge($lang, array(
 	'MAKE_NORMAL'				=> 'Mainīt uz “Parasta tēma”',
 	'MAKE_STICKY'				=> 'Mainīt uz “Piestiprināts”',
 	'MAX_OPTIONS_SELECT'		=> array(
-		1	=> 'Var izvēlēties līdz <strong>%d</strong> atbilžu variantiem',
+		1	=> 'Var izvēlēties <strong>%d</strong> atbilžu variantu',
 		2	=> 'Var izvēlēties līdz <strong>%d</strong> atbilžu variantiem',
 	),
 	'MISSING_INLINE_ATTACHMENT'	=> 'Pielikums <strong>%s</strong> vairs nav pieejams',
@@ -119,7 +119,7 @@ $lang = array_merge($lang, array(
 	'VIEW_PREVIOUS_TOPIC'	=> 'Iepriekšējā tēma',
 	'VIEW_RESULTS'			=> 'Skatīt rezultātus',
 	'VIEW_TOPIC_POSTS'		=> array(
-		1	=> '%d ziņas',
+		1	=> '%d ziņa',
 		2	=> '%d ziņas',
 	),
 	'VIEW_UNREAD_POST'		=> 'Pirmā neizlasītā ziņa',
