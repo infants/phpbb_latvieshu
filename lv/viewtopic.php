@@ -43,7 +43,6 @@ $lang = array_merge($lang, array(
 
 	'BOOKMARK_ADDED'		=> 'Tēma pievienota grāmatzīmei.',
 	'BOOKMARK_ERR'			=> 'Neizdevās tēmu pievienota grāmatzīmei. Lūdzu, mēģiniet vēlreiz.',
-	'BOOKMARK_REMOVED'		=> 'Removed bookmarked topic successfully.',
 	'BOOKMARK_TOPIC'		=> 'Bookmark topic',
 	'BOOKMARK_TOPIC_REMOVE'	=> 'Remove from bookmarks',
 	'BUMPED_BY'				=> 'Last bumped by %1$s on %2$s.',
