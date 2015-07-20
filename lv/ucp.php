@@ -1,6 +1,8 @@
 <?php
 /**
 *
+* ucp [Latvian]
+* Yanka
 * This file is part of the phpBB Forum Software package.
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
@@ -38,46 +40,67 @@ if (empty($lang) || !is_array($lang))
 
 // Privacy policy and T&C
 $lang = array_merge($lang, array(
-	'TERMS_OF_USE_CONTENT'	=> 'By accessing “%1$s” (hereinafter “we”, “us”, “our”, “%1$s”, “%2$s”), you agree to be legally bound by the following terms. If you do not agree to be legally bound by all of the following terms then please do not access and/or use “%1$s”. We may change these at any time and we’ll do our utmost in informing you, though it would be prudent to review this regularly yourself as your continued usage of “%1$s” after changes mean you agree to be legally bound by these terms as they are updated and/or amended.<br />
+	'TERMS_OF_USE_CONTENT'	=> 'Ienākot konferencē "%1$s" (turpmāk "mēs", "mūsu", "%1$s", "%2$s"), jūs apstiprināt, ka piekrītat sekojošiem noteikumiem. Ja jūs tiem nepiekrītiet, lūgums, neienākat un nelietojat "%1$s". Mēs paturam sev tiesības mainīt šos noteikumus jebkurā laikā un darīsim visu iespējamo, lai jūs par to informētu, tomēr no jūsu puses būtu lietderīgi ik pa laikam apmaklēt šos noteikumus, lai pārliecinātos vai nav veiktas kādas izmaiņas, tā kā konferences «%1$s» izmantošana pēc noteikumu atjaunojumiem/labojumiem nozīmē jūsu automātisku piekrišanu.<br />
 	<br />
-	Our forums are powered by phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Limited”, “phpBB Teams”) which is a bulletin board solution released under the “<a href="http://opensource.org/licenses/gpl-2.0.php">GNU General Public License v2</a>” (hereinafter “GPL”) and can be downloaded from <a href="https://www.phpbb.com/">www.phpbb.com</a>. The phpBB software only facilitates internet based discussions; phpBB Limited is not responsible for what we allow and/or disallow as permissible content and/or conduct. For further information about phpBB, please see: <a href="https://www.phpbb.com/">https://www.phpbb.com/</a>.<br />
+	Mūsu forumi darbojas uz phpBB (turpmāk "viņi", "programm nodrošinājums phpBB", "www.phpbb.com", "phpBB Group", "phpBB Teams") programm nodoršinājuma bāzes, izlaistam uz “<a href="http://opensource.org/licenses/gpl-2.0.php">GNU General Public License v2</a>” (turpmāk  “GPL”) pamata. Lejuplādēt to, jūs varat <a href="https://www.phpbb.com/">www.phpbb.com</a>. Licenzes GPL ierobežojumi programm nodorošinājumam phpBB ir cieši saistīti ar organizāciju un atbalstu internet-konferencei, un phpBB Group neness atbildību par to, ko konferences administrācija nosaka par atļauto saturu vai/un pieļaujamo uzvedību tajā. Lai saņemtu sīkāku informāciju par  phpBB griezieties pēc adreses <a href="http://www.phpbb.com/">http://www.phpbb.com/</a>.<br />
 	<br />
-	You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “%1$s” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “%1$s” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “%1$s” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
+	Jūs piekrītat neievietot aizvainojošus, draudošus, melīgus ziņojumus, pornogrāfiskus ziņojumus, nacionālā naida kurinošus vai citus tamlīdzīgus tekstus, kuri var būt pretrunā ar jūsu valsts likumdošanu, valsts, kuras hostinga pakalpojumus izmanto "%1$s", vai starptautiskiem noteikumiem. Tādu ziņojumu ievietošanas mēģinājumi var novest pie tā, ka Jūs tiksiet atslēgts no konferences, kā arī tiks paziņots jūsu interneta provaideram, ja uzskatīsim to par vajadzīgu. Visu ziņojumu IP-adreses tiek saglabātas, lai varētu to īstenot nepieciešamības gadījumā. Jūs piekrītat tam, ka, "%1$s" forumu administratoram ir tiesības dzēst, labot, pārvietot vai slēgt jebkuru tēmu jebkurā laikā pēc saviem ieskatiem. Kā lietotājs jūs piekrītat tam, ka jūsu ievadītā informācija glabāsies datu bāzē. Kaut arī šī informācija netiks atklāta trešam personām, tomēr ne "%1$s" konferences administrācija, ne phpBB Group nevar būt atbaldīga par hakeru darbību, kuri nesankcionētas rīcības rezultātā var tai piekļūt.
 	',
+	
+	
+	'PRIVACY_POLICY'		=> 'Šī vienošanās izskaidro, kā «%1$s» un tā sadaļas (turpmāk "mēs", "mūsu", "%1$s", "%2$s"), un phpBB (turpmāk "viņi", "programm nodrošinājums phpBB", "www.phpbb.com", "phpBB Group", "phpBB Teams") izmanto informāciju, kura iegūta jebkurā jūsu apmeklējuma sesijā (turpmāk "jūsu informācija").<br />
+	<br />
 
-	'PRIVACY_POLICY'		=> 'This policy explains in detail how “%1$s” along with its affiliated companies (hereinafter “we”, “us”, “our”, “%1$s”, “%2$s”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Limited”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).<br />
+	
+	Jūsu informācija tiek apkopota divos veidos. Pirmkārt, apmeklējot "%1$s" phpBB izveidos noteiktu skaitu "cookies" (nelieli teksta faili, kuri tiek uzglabāti jūsu brauzera pagaidu failu mapē). Pirmie divi "cookie" satur tikai lietotāja identifikātoru (turpmāk "user-id") un anonīmās sesijas identifikātoru (turpmāk "session-id"), kuri tiek jums automātiksi piešķirti ar phpBB programm nodrošinājumu. Trešie "cookie" tiks izveidoti pēc kādas no "%1$s" konferences tēmas apskates un tiks izmantoti lai saglabātu informāciju par jūsu izlasītajām tēmām, tādā veidā paaugstinot ērtību strādāšanā ar forumiem.<br />
 	<br />
-	Your information is collected via two ways. Firstly, by browsing “%1$s” will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within “%1$s” and is used to store which topics have been read, thereby improving your user experience.<br />
+
+	
+	Tāpat, "%1$s" konferences apskates laikā, jūs varat uzstādīt cookies, ārēji attiecībā pret phpBB, taču tas jau ir cits temats, un iziet ārpus šī apraksta, kura mērķis ir apskatīt lapas kuras ir izveidotas vienīgi ar phpBB programm nodrošinājumu. Otrs jūsu informācijas apkopošanas veids ir dati, kurus jūs sūtat uz forumu. Šie dati var būt piemēram: ziņas, pievienotas zem viesa statusa (turpmāk "anonīmās ziņas"), dati, kuri norādīti reģistrējoties un ziņas, kuras esat atstājis kā lietotājs.<br />
 	<br />
-	We may also create cookies external to the phpBB software whilst browsing “%1$s”, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “%1$s” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).<br />
+
+	
+	Jūsu lietotāja konts, kā minimums saturēs, lietotājvārdu, individualu paroli lai ielogotos un reālu e-pasta adresi. Jūsu informācija no jūsu "%1$s" forumu konta, tiek aizsargāta ar likumiem par kompjūter informācijas aizsardzību, kuri ir spēkā tai valstī, kuras hostinga pakalpojumi tiek izmantoti. Jebkura informācija, jebkura informācija, kura tiek pieprasīta reģistrējoties "%1$s", izņemot jūsu lietotājvārdu, jūsu paroli un jūsu e-pasta adresi, var būt gan nepieciešama, gan arī neobligāta ievadīšanai, tas atkarīgs no "%1$s" konferences administratora. Katrā gadījumā jums ir iespēja izvēlēties, kura informācija no jūsu konta būs publiski pieejama. Bez tam, jums ir iespēja piekrist/atteikties automātiski ģenērētu paziņojumu saņemšanas, kurus ģenerē phpBB programm nodrošinājums.<br />
 	<br />
-	Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid email address (hereinafter “your email”). Your information for your account at “%1$s” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your email address required by “%1$s” during the registration process is either mandatory or optional, at the discretion of “%1$s”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated emails from the phpBB software.<br />
-	<br />
-	Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “%1$s”, so please guard it carefully and under no circumstance will anyone affiliated with “%1$s”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.<br />
+
+	
+	Jūsu parole tiek tiek droši šifrēta. Tomēr nav ieteicams izmantot šo pašu paroli reģistrējotos citos saitos. Jūsu parole ir līdzeklis tikt pie jūsu konta "%1$s" forumos, tāpēc lūgums, glabājiet to noslēpumā, un nekādos gadījumos, ne "%1$s" pārstāvjiem, ne phpBB Group, ne trešām personām nav tiesību prasīt jums jūsu paroli. Gadījumā, ja jūs aizmirsīsiet jūsu konta paroli, jūs varat izmantot paroles atjaunošanas funkciju "Esmu aizmirsis paroli", no phpBB programm nodrošinājuma. Jums būs nepieciešams ievadīt savu lietotājvārdu un e-pasta adresi, pēc tam phpBB programm nodrošinājums noģenerēs jums jaunu paroli jūsu lietotāja kontam.<br />
+	
+	
+	
+	
 	',
 ));
-
 // Common language entries
+
 $lang = array_merge($lang, array(
-	'ACCOUNT_ACTIVE'				=> 'Your account has now been activated. Thank you for registering.',
-	'ACCOUNT_ACTIVE_ADMIN'			=> 'The account has now been activated.',
-	'ACCOUNT_ACTIVE_PROFILE'		=> 'Your account has now been successfully reactivated.',
-	'ACCOUNT_ADDED'					=> 'Thank you for registering, your account has been created. You may now login with your username and password.',
-	'ACCOUNT_COPPA'					=> 'Your account has been created but has to be approved, please check your email for details.',
-	'ACCOUNT_EMAIL_CHANGED'			=> 'Your account has been updated. However, this board requires account reactivation on email changes. An activation key has been sent to the new email address you provided. Please check your email for further information.',
-	'ACCOUNT_EMAIL_CHANGED_ADMIN'	=> 'Your account has been updated. However, this board requires account reactivation by the administrators on email changes. An email has been sent to them and you will be informed when your account has been reactivated.',
-	'ACCOUNT_INACTIVE'				=> 'Your account has been created. However, this board requires account activation, an activation key has been sent to the email address you provided. Please check your email for further information.',
-	'ACCOUNT_INACTIVE_ADMIN'		=> 'Your account has been created. However, this board requires account activation by the administrator group. An email has been sent to them and you will be informed when your account has been activated.',
-	'ACTIVATION_EMAIL_SENT'			=> 'The activation email has been sent to your email address.',
-	'ACTIVATION_EMAIL_SENT_ADMIN'	=> 'The activation email has been sent to the administrators email addresses.',
-	'ADD'							=> 'Add',
-	'ADD_BCC'						=> 'Add [BCC]',
-	'ADD_FOES'						=> 'Add new foes',
-	'ADD_FOES_EXPLAIN'				=> 'You may enter several usernames each on a different line.',
-	'ADD_FOLDER'					=> 'Add folder',
-	'ADD_FRIENDS'					=> 'Add new friends',
-	'ADD_FRIENDS_EXPLAIN'			=> 'You may enter several usernames each on a different line.',
-	'ADD_NEW_RULE'					=> 'Add new rule',
+	'ACCOUNT_ACTIVE'				=> 'Jūsu lietotāja konts tika aktivizēts. Pateicamies par reģistrēšanos.',
+	'ACCOUNT_ACTIVE_ADMIN'			=> 'Jūsu lietotāja konts tika aktivizēts.',
+	'ACCOUNT_ACTIVE_PROFILE'		=> 'Jūsu lietotāja konts tika veiksmīgi atkal aktivizēts.',
+	'ACCOUNT_ADDED'					=> 'Pateicamies par reģistrēšanos, jūsu lietotāja konts tika izveidots. Jūs varat ielogoties izmantojot savu lietotājvārdu un paroli.',
+	'ACCOUNT_COPPA'					=> 'Jūsu lietotāja konts tika izveidots, bet tam nepieciešams apstiprinājums. Sīkāka informācija nosūtīta uz jūsu e-pastu.',
+	'ACCOUNT_EMAIL_CHANGED'			=> 'Jūsu lietotāja konts tika atjaunots. Bet ir nepieciešams atkārtoti aktivizēt lietotāja kontu pēc e-pasta adreses nomaiņas. Aktivizācijas informācija nosūtīta uz jūsu norādīto jauno e-pasta adresi.',
+	'ACCOUNT_EMAIL_CHANGED_ADMIN'	=> 'Jūsu lietotāja konts tika atjaunots. Bet ir nepieciešama atkārtots administratora apstiprināšana lai aktivizētu lietotāja kontu, pie e-pasta adreses nomaiņas. Paziņojums administratoram ir nosūtīts. Jums tiks paziņots, kad tiks atkārtoti aktivizēts jūsu lietotāja konts.',
+	'ACCOUNT_INACTIVE'				=> 'Jūsu lietotāja konts tika izveidots. Bet ir nepieciešams to aktivizēt. Aktivizācijas informācija nosūtīta uz jūsu norādīto e-pasta adresi.',
+	'ACCOUNT_INACTIVE_ADMIN'		=> 'Jūsu lietotāja konts tika izveidots. Bet ir nepieciešama administratora apstiprināšana. Paziņojums administratoram ir nosūtīts. Jums tiks paziņots, kad tiks aktivizēts jūsu lietotāja konts.',
+	'ACTIVATION_EMAIL_SENT'			=> 'Aktivizēšanas e-pasts nosūtīts uz jūsu e-pasta adresi.',
+	'ACTIVATION_EMAIL_SENT_ADMIN'	=> 'Aktivizēšanas e-pasts nosūtīts uz administratora e-pasta adresi.',
+	
+	
+	
+	
+	'ADD'							=> 'Pievienot',
+	'ADD_BCC'						=> 'Pievienot [BCC]',
+	'ADD_FOES'						=> 'Pievienot jaunus nedraugus',
+	'ADD_FOES_EXPLAIN'				=> 'ūs varat pievienot vairākus lietotājus, bet katru savu līnījā.',
+	
+	
+	
+	'ADD_FOLDER'					=> 'Pievienot mapi',
+	'ADD_FRIENDS'					=> 'Pievienot jaunus draugus',
+	'ADD_FRIENDS_EXPLAIN'			=> 'Jūs varat pievienot vairākus lietotājus, bet katru savu līnījā.',
+
+	'ADD_NEW_RULE'					=> 'Pievienot jaunu noteikumu',
 	'ADD_RULE'						=> 'Add rule',
 	'ADD_TO'						=> 'Add [To]',
 	'ADD_USERS_UCP_EXPLAIN'			=> 'Here you can add new users to the group. You may select whether this group becomes the new default for the selected users. Please enter each username on a separate line.',
