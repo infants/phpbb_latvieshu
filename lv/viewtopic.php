@@ -38,11 +38,11 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'APPROVE'								=> 'Apstiprināt',
-	'ATTACHMENT'						=> 'Attachment',
-	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'The attachments feature has been disabled.',
+	'ATTACHMENT'						=> 'Pielikums',
+	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Pielikuma funkcionalitāte atspējota.',
 
-	'BOOKMARK_ADDED'		=> 'Bookmarked topic successfully.',
-	'BOOKMARK_ERR'			=> 'Bookmarking the topic failed. Please try again.',
+	'BOOKMARK_ADDED'		=> 'Tēma pievienota grāmatzīmei.',
+	'BOOKMARK_ERR'			=> 'Neizdevās tēmu pievienota grāmatzīmei. Lūdzu, mēģiniet vēlreiz.',
 	'BOOKMARK_REMOVED'		=> 'Removed bookmarked topic successfully.',
 	'BOOKMARK_TOPIC'		=> 'Bookmark topic',
 	'BOOKMARK_TOPIC_REMOVE'	=> 'Remove from bookmarks',
