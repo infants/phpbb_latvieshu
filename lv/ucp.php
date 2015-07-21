@@ -184,7 +184,7 @@ $lang = array_merge($lang, array(
 	'VC_REFRESH_EXPLAIN'		=> 'Ja nevarat izlasīt kodu, jūs varat pieprasīt jaunu kodu nospiežot uz šīs pogas.',
 
 	'CONFIRM_PASSWORD'			=> 'Apstiprināt paroli',
-	'CONFIRM_PASSWORD_EXPLAIN'	=> Apstiprināt paroli nepieciešams vienīgi tad, ja esat to nomainījuši augstāk.',
+	'CONFIRM_PASSWORD_EXPLAIN'		=> 'Apstiprināt paroli nepieciešams vienīgi tad, ja esat to nomainījuši augstāk.',
 	'COPPA_BIRTHDAY'			=> 'Lai turpinātu reģistrāciju, lūdzu norādiet savu dzimšanas datumu.',
 	'COPPA_COMPLIANCE'			=> 'COPPA vienošanās', //Children's Online Privacy Protection Rule
 	'COPPA_EXPLAIN'				=> 'Ņemiet verā, ka jūsu lietotāja konts tiks izveidots uzreiz pēc formas nosūtīšanas. Tomēr, tas netiks aktivizēts līdz brīdim, kamēr netiks saņemta jūsu vecāku vai aizbildņu piekrišana. Jums tiks nosūtīta e-pasta kopija ar nepieciešamo formu un norādījumiem, kur tā jāsūta.',
@@ -244,7 +244,7 @@ $lang = array_merge($lang, array(
 	
 	
 	'EMPTY_DRAFT'				=> 'Jums jāievada ziņa, lai apstiprinātu izmaiņas.',
-	'EMPTY_DRAFT_TITLE'			=> 'Jums jāievada melnraksta nosaukums.'',
+	'EMPTY_DRAFT_TITLE'			=> 'Jums jāievada melnraksta nosaukums.',
 	'EXPORT_AS_XML'				=> 'Eksportēt kā XML',
 	'EXPORT_AS_CSV'				=> 'Eksportēt kā CSV',
 	'EXPORT_AS_CSV_EXCEL'		=> 'Eksportēt kā CSV (Excel)',
