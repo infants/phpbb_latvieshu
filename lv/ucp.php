@@ -252,10 +252,10 @@ $lang = array_merge($lang, array(
 	'EXPORT_AS_MSG'				=> 'Eksportēt kā MSG',
 	'EXPORT_FOLDER'				=> 'Eksportēt šādā veidā',
 
-	'FIELD_REQUIRED'					=> 'Laukam “%s” jābūt aizpildītam.',
+	'FIELD_REQUIRED'					=> 'The field “%s” must be completed.',
 	'FIELD_TOO_SHORT'					=> array(
-		1	=> 'Lauks “%2$s” ir par īsu, minimums %1$d simboli.',
-		2	=> 'lauks “%2$s” ir par īsu, ir nepieciešams %1$d rakstu zīmes.',
+		1	=> 'The field “%2$s” is too short, a minimum of %1$d character is required.',
+		2	=> 'The field “%2$s” is too short, a minimum of %1$d characters is required.',
 	),
 	'FIELD_TOO_LONG'					=> array(
 		1	=> 'The field “%2$s” is too long, a maximum of %1$d character is allowed.',
