@@ -63,8 +63,8 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_NEWPOSTS'	=> 'Jums jābūt reģistrētam un jāielogojas lai apskatītu jaunākās ziņas ziņas.',
 
 	'MAX_NUM_SEARCH_KEYWORDS_REFINE'	=> array(
-		1	=> 'Ir norādīts pārāk daudz meklējamos vārdus. Lūdzu, neievadiet vairāk nekā %1$d vārdu.',
-		2	=> 'Ir norādīts pārāk daudz meklējamos vārdus. Lūdzu, neievadiet vairāk nekā %1$d vārdus.',
+		1	=> 'Ir norādīti pārāk daudz meklējamie vārdi. Lūdzu, ievadiet ne vairāk nekā %1$d vārdu.',
+		2	=> 'Ir norādīti pārāk daudz meklējamie vārdi. Lūdzu, ievadiet ne vairāk nekā %1$d vārdus.',
 	),
 
 	'NO_KEYWORDS'			=> 'Jums jāievada vismaz viens meklējamais vārds. Katram vārdam jāsatur vismaz %d zīmes, un nedrīkst pārsniegt %d zīmes, izslēdzot šablona simbolu*.',
@@ -72,12 +72,12 @@ $lang = array_merge($lang, array(
 	'NO_SEARCH'				=> 'Atvainojiet, bet jums ir liegta meklēšanas izmantošana.',
 	'NO_SEARCH_RESULTS'		=> 'Atbilstošu rezultātu netika atrasts.',
 	'NO_SEARCH_TIME'		=> array(
-		1	=> 'Atvainojiet, pašlaik meklēšana nav pieejama. Lūdzu mēģiniet velreiz pēc %d sekundēm.',
+		1	=> 'Atvainojiet, pašlaik meklēšana nav pieejama. Lūdzu mēģiniet velreiz pēc %d sekundes.',
 		2	=> 'Atvainojiet, pašlaik meklēšana nav pieejama. Lūdzu mēģiniet velreiz pēc %d sekundēm.',
 	),
 	'NO_SEARCH_UNREADS'		=> 'Atvainojiet, bet iespēja meklēt nelasītas ziņas ir atslēgta.',
 	'WORD_IN_NO_POST'		=> 'Nekas netika atrasts, jo vārds <strong>%s</strong> nav sastopams nevienā ziņā.',
-	'WORDS_IN_NO_POST'		=> 'Nekas netika atrasts, jo vārdi <strong>%s</strong> nav sastopams nevienā ziņā.',
+	'WORDS_IN_NO_POST'		=> 'Nekas netika atrasts, jo vārdi <strong>%s</strong> nav sastopami nevienā ziņā.',
 
 	'POST_CHARACTERS'		=> 'ziņu zīmes',
 	'PHRASE_SEARCH_DISABLED'	=> 'Meklēšana pēc precīzas frāzes netiek atbalstīta šajā forumā.',
@@ -118,6 +118,6 @@ $lang = array_merge($lang, array(
 
 	'TOO_FEW_AUTHOR_CHARS'	=> array(
 		1	=> 'Jums jāievada vismaz %d zīme no autora vārda.',
-		2	=> 'Jums jāievada visma %d zīmes no autora vārda.',
+		2	=> 'Jums jāievada vismaz %d zīmes no autora vārda.',
 	),
 ));
