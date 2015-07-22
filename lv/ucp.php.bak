@@ -576,7 +576,7 @@ $lang = array_merge($lang, array(
 	'UCP_AUTH_LINK_UNLINK'		=> 'Atsaistīt',
 	'UCP_COPPA_BEFORE'			=> 'Līdz %s',
 	'UCP_COPPA_ON_AFTER'		=> 'Pirms vai pēc %s',
-	'UCP_EMAIL_ACTIVATE'		=> 'Jums jānorāda reāla e-pasta adrese pirms aktivizācijas. Uz jūsu norādīto e-pasta adresi tiks nosūtīta vēstule ar aktivizācijas linku.',
+	'UCP_EMAIL_ACTIVATE'		=> 'Please note that you will need to enter a valid email address before your account is activated. You will receive an email at the address you provide that contains an account activation link.',
 	'UCP_JABBER'				=> 'Jabber address',
 	'UCP_LOGIN_LINK'			=> 'Set up an external account association',
 
