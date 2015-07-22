@@ -1,20 +1,19 @@
-Subject: Topic reply notification - "{TOPIC_TITLE}"
+Subject: Uz tēmu "{TOPIC_TITLE} saņemta atbilde"
 
 Hello {USERNAME},
 
-You are receiving this notification because you are watching the topic "{TOPIC_TITLE}" at "{SITENAME}". This topic has received a reply<!-- IF AUTHOR_NAME --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit. You can use the following link to view the replies made, no more notifications will be sent until you visit the topic.
+Jūs saņēmāt šo vēstuli, jo sekojiet tēmai, "{TOPIC_TITLE}" saitā "{SITENAME}". Kopš jūsu pēdējā apmeklējuma šajā tēmā ir pievienotas jauna atbilde <!-- IF AUTHOR_NAME !== '' --> no {AUTHOR_NAME}<!-- ENDIF -->. Paziņojumi vairs netiks sūtīti, kamēr jūs neapmeklēsiet tēmu..
 
-If you want to view the newest post made since your last visit, click the following link:
+Ja vēlaties apskatīt jaunāko rakstu, izmantojiet linku:
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Ja vēlaties apskatīt jaunāko tēmu, izmantojiet linku:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Ja vēlaties apskatīt forumu, izmantojiet linku:
 {U_FORUM}
 
-If you no longer wish to watch this topic you can either click the "Unsubscribe topic" link found at the bottom of the topic above, or by clicking the following link:
-
+Ja vairs nevēlaties sekot tēmai, tad jūs varat to izdarīt nospiežot saiti "Atrakstīties no tēmas" lapā, vai uzspiežot uz zemāk esošā linka:
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}

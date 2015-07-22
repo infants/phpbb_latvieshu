@@ -1,11 +1,12 @@
-Subject: Topic disapproved - "{TOPIC_TITLE}"
+Subject: Tēma noraidīta - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Jūs saņēmāt šo vēstuli, jo moderatori vai administrācija ir noraidījuši jūsu tēmu "{TOPIC_TITLE}" saitā "{SITENAME}".
 
-The following reason was given for the disapproval:
+Noraidīšanas iemesls ir:
 
 {REASON}
+
 
 {EMAIL_SIG}

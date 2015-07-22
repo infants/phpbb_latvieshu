@@ -1,12 +1,12 @@
-Subject: New topic notification - "{FORUM_NAME}"
+Subject: Paziņojums par jaunu tēmu - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new topic<!-- IF AUTHOR_NAME --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit, "{TOPIC_TITLE}". You can use the following link to view the forum, no more notifications will be sent until you visit the forum.
+Jūs saņēmāt šo ziņu, jo sekojat sadaļai "{FORUM_NAME}" saitā "{SITENAME}". Kopš jūsu pēdējā apmeklējuma, šajā sadaļā ir izveidota jauna tēma "{TOPIC_TITLE}". Lai to apskatītu, jūs varat izmantot zemāk esošo linku. Jūs nesaņemsiet jaunus paziņojumus, līdz tam, kamēr neapmeklēsiet šo sadaļu.
 
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+Ja jūs vairs nevēlaties saņemt paziņojumus, jūs varat nospiest saiti "Atrakstīties" lapā vai arī uzspiest uz zemāk esošā linka:
 
 {U_STOP_WATCHING_FORUM}
 

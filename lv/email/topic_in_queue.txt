@@ -2,7 +2,7 @@ Subject: Tēma gaida apstiprinājumu - "{TOPIC_TITLE}"
 
 Sveicināti {USERNAME},
 
-Jūs saņēmāt šo vēstuli, jo tēma "{TOPIC_TITLE}" saitē "{SITENAME}" nepieciešams apstiprinājums.
+Jūs saņēmāt šo vēstuli, jo tēmai "{TOPIC_TITLE}" saitē "{SITENAME}" ir nepieciešams apstiprinājums.
 
 Ja jūs vēlaties apskatīt tēmu, sekojiet linkam:
 {U_VIEW_TOPIC}

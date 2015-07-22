@@ -1,13 +1,13 @@
-Subject: Post report - "{TOPIC_TITLE}"
+Subject: Raksta sūdzība - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because the post "{POST_SUBJECT}" at "{SITENAME}" was reported.
+Jūs saņēmāt šo vēstuli, jo par rakstu "{POST_SUBJECT}" saitē "{SITENAME}" tika saņemta sūdzība.
 
-If you want to view the report, click the following link:
+Ja vēlaties skatīt sūdzību, noklikšķiniet uz šīs saites:
 {U_VIEW_REPORT}
 
-If you want to view the post, click the following link:
+Ja vēlaties skatīt rakstu, noklikšķiniet uz šīs saites:
 {U_VIEW_POST}
 
 {EMAIL_SIG}

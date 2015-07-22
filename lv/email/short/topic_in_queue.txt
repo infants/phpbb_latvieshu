@@ -1,13 +1,13 @@
-Subject: Topic moderation notification - "{TOPIC_TITLE}"
+Subject: Tēma gaida apstiprinājumu - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because the topic "{TOPIC_TITLE}" at "{SITENAME}" needs approval.
+Jūs saņēmāt šo vēstuli, jo tēmai "{TOPIC_TITLE}" saitē "{SITENAME}" ir nepieciešams apstiprinājums.
 
-If you want to view the topic, click the following link:
+Ja jūs vēlaties apskatīt tēmu, sekojiet linkam:
 {U_VIEW_TOPIC}
 
-If you want to view the forum, click the following link:
+Ja jūs vēlaties apskatīt forumu, sekojiet linkam:
 {U_FORUM}
 
 {EMAIL_SIG}

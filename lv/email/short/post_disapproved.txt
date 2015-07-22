@@ -1,11 +1,12 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Subject: Ziņa "{POST_SUBJECT}" noraidīta
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Jūs saņēmāt šo vēstuli, jo jūsu ziņa "{POST_SUBJECT}" saitā "{SITENAME}" tika noraidīta.
 
-The following reason was given for the disapproval:
+Noraidīšanas iemesls ir sekojošs:
 
 {REASON}
+
 
 {EMAIL_SIG}
