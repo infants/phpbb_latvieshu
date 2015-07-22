@@ -1,7 +1,8 @@
-Subject: Report closed - "{POST_SUBJECT}"
+Subject: Sūdzība "{POST_SUBJECT}" slēgta
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a personal message.
+Jūs saņēmāt šo vēstuli, jo moderatori vai administrācija ir izskatījusi jūsu nosūtīto sūdzību "{POST_SUBJECT}" tēmā "{TOPIC_TITLE}" saitā "{SITENAME}". Pēc izskatīšanas sūdzība tika slēgta. Neskaidrību un jautājumu gadījumā, sazinaties ar {CLOSER_NAME} izmantojot privātos paziņojumus.
+
 
 {EMAIL_SIG}

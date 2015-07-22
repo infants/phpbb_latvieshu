@@ -1,10 +1,11 @@
-Subject: Topic approved - "{TOPIC_TITLE}"
+Subject: Tēma apstiprināta - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+Jūs saņēmāt šo vēstuli, jo moderatori vai administrācija ir apstiprinājuši jūsu tēmu "{TOPIC_TITLE}" saitā "{SITENAME}".
 
-If you want to view the topic, click the following link:
+Lai apskatītu tēmu, sekojiet linkam:
 {U_VIEW_TOPIC}
+
 
 {EMAIL_SIG}

@@ -1,7 +1,8 @@
-Subject: Report deleted - "{POST_SUBJECT}"
+Subject: Sūdzība dzēsta - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was deleted by a moderator or by an administrator.
+Jūs saņēmāt šo vēstuli, jo moderatori vai administrācija ir dzēsusi jūsu nosūtīto sūdzību "{POST_SUBJECT}" tēmā "{TOPIC_TITLE}" saitā "{SITENAME}".
+
 
 {EMAIL_SIG}

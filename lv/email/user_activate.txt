@@ -1,8 +1,8 @@
-Subject: Reactivate your account
+Subject: Atkārtota konta aktivizēšana
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-Your account on "{SITENAME}" has been deactivated, most likely due to changes made to your profile. In order to reactivate your account you must click on the link below:
+Jūsu lietotāja konts "{SITENAME}" tika atslēgts, visticamāk, sakarā ar veiktām izmaiņām jūsu lietotāja profilā. Lai kontu aktivizētu no jauna, izmantojiet šo linku:
 
 {U_ACTIVATE}
 

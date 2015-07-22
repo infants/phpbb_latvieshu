@@ -1,18 +1,19 @@
-Subject: Reactivate your account on "{SITENAME}"
+Subject: Atkārtota konta aktivizēšana "{SITENAME}"
 
-A board administrator requested that your account be reactivated. Your account is currently inactive.
-Please follow the steps listed here to reactivate your account.
+Administrācija ir pieprasījusi atkārtotu jūsu lietotāja konta aktivizēšanu. Šobrīd jūsu lietotāja konts ir neaktīvs.
+Lai no jauna aktivizētu kontu sekojiet norādījumiem.
 
-Please keep this email for your records. Your account information is as follows:
+Lūdzu saglabājiet šo vēstuli. Jūsu lietotāja konta informācija ir šāda:
 
 ----------------------------
-Username: {USERNAME}
+Lietotājvārds: {USERNAME}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Jūsu parole ir saglabāta mūsu datu bāzē un ir zināma vienīgi jums. Ja jūs to aizmirsīsiet, tad varēsiet pieprasīt jaunu paroli izmantojot šo e-pasta adresi, kura ir saistīta ar jūsu lietotāja kontu.
 
-Please visit the following link to reactivate your account:
+Lai no jauna aktivizētu lietotāja kontu, nospiediet linku:
 
 {U_ACTIVATE}
+
 
 {EMAIL_SIG}

@@ -1,11 +1,11 @@
-Subject: Inactive account reminder
+Subject: Neaktīva konta atgādinājums
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-This notification is a reminder that your account at "{SITENAME}", created on {REGISTER_DATE}, remains inactive. If you would like to activate this account, please visit the following link:
+Šī vēstule nosūtīta jums, lai atgādinātu, ka jūsu lietotāja konts "{SITENAME}", tika izveidots {REGISTER_DATE}, un vēl līdz šim nav aktivizēts. Ja vēlaties aktivizēt šo kontu, izmantojiet zemāk esošo linku:
 
 {U_ACTIVATE}
 
-Thank you for registering at "{SITENAME}", we look forward to your participation.
+Pateicamies par reģistrēšanos "{SITENAME}", un ceram uz jūsu piedalīšanos sarunās.
 
 {EMAIL_SIG}

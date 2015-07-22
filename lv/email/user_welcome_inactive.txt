@@ -1,21 +1,21 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Laipni lūgti "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Lūdzu saglabājiet šo vēstuli. Jūsu lietotāja konta informācija:
 
 ----------------------------
-Username: {USERNAME}
+Lietotājvārds: {USERNAME}
 
-Board URL: {U_BOARD}
+Saita adrese: {U_BOARD}
 ----------------------------
 
-Please visit the following link in order to activate your account:
+Lūdzu izmantojiet zemāk esošo linku lai aktivizētu savu lietotāja kontu:
 
 {U_ACTIVATE}
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Jūsu parole ir saglabāta mūsu datu bāzē un ir zināma vienīgi jums. Ja jūs to aizmirsīsiet, tad varēsiet pieprasīt jaunu paroli izmantojot šo e-pasta adresi, kura ir saistīta ar jūsu lietotāja kontu.
 
-Thank you for registering.
+Pateicamies par reģistrēšanos!
 
 {EMAIL_SIG}
