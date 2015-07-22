@@ -47,8 +47,8 @@ $lang = array_merge($lang, array(
 		2	=> 'Meklēšanas rezultāti: %d sakritības',
 	),
 	'FOUND_MORE_SEARCH_MATCHES'		=> array(
-		1	=> 'Atrasts vairāk kā %d skaritības',
-		2	=> 'Atrasts vairāk kā %d skaritību',
+		1	=> 'Atrasta %d sakritība',
+		2	=> 'Atrastas %d sakritības',
 	),
 
 	'GLOBAL'				=> 'Svarīgs paziņojums',
