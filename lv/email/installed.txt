@@ -1,19 +1,19 @@
-Subject: phpBB installed
+Subject: phpBB instalēšana
 
-Congratulations,
+Apsveicam,
 
-You have successfully installed phpBB on your server.
+Jūs esat veiksmīgi instalējuši phpBB.
 
-This email contains important information regarding your installation and should be kept for reference. Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Šī vēstule satur svarīgu informāciju, kura skar uzstādīto phpBB. Saglabājiet šo vēstuli. Jūsu parole ir saglabāta datu bāzē un ir zināma vienīgi jums. Gadījumā, ja jūs aizmirsīsiet savu paroli, tad varēsiet to pieprasīt izmantojot e-pasta adresi kura ir saistīta ar jūsu kontu.
 
 ----------------------------
-Username: {USERNAME}
+Lietotājvārds: {USERNAME}
 
-Board URL: {U_BOARD}
+Saita adrese: {U_BOARD}
 ----------------------------
 
-Useful information regarding the phpBB software can be found in the docs folder of your installation and on phpBB.com's support page - https://www.phpbb.com/support/
+Noderīga informācija par phpBB atrodas mapē docs un phpBB.com atbalsta lapā - http://www.phpbb.com/support/
 
-In order to keep your board safe and secure, we highly recommended keeping current with software releases. For your convenience, a mailing list is available at the page referenced above.
+Lai nodrošinātu saita drošību, uzstājīgi iesakām sekot līdzi atjaunojumiem, ko jūs varēsiet viegli veikt, parakstoties uz phpBB jaunumiem.
 
 {EMAIL_SIG}
