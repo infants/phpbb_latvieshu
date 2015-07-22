@@ -1,6 +1,6 @@
-Subject: Paziņojums par jaunu tēmu - "{FORUM_NAME}"
+Subject: New topic notification - "{FORUM_NAME}"
 
-Sveicināti {USERNAME},
+Hello {USERNAME},
 
 Jūs saņēmāt šo ziņu, jo sekojat sadaļai "{FORUM_NAME}" saitā "{SITENAME}". Kopš jūsu pēdējā apmeklējuma, šajā sadaļā ir izveidota jauna tēma <!-- IF AUTHOR_NAME !== '' --> autors {AUTHOR_NAME}<!-- ENDIF -->, "{TOPIC_TITLE}". 
 Lai to apskatītu, jūs varat izmantot zemāk esošo linku. Jūs nesaņemsiet jaunus paziņojumus, līdz tam, kamēr neapmeklēsiet šo sadaļu.
