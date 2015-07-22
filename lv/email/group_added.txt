@@ -1,11 +1,11 @@
-Subject: You have been added to this usergroup
+Subject: Jūs tikāt pievienots grupā
 
-Congratulations,
+Apsveicam!
 
-You have been added to the "{GROUP_NAME}" group on "{SITENAME}".
-This action was done by a group leader or the site administrator, contact them for more information.
+Jūs tikāt pievienots "{SITENAME}" "{GROUP_NAME}" grupā.
+Šo darbību veicis vai nu grupas līderis vai saita administrācija, vēršaties pie viņiem, ja vēlaties saņemt sīkāku informāciju.
 
-You can view your groups information here:
+Informāciju par grupu jūs varat atrast izmantojot linku:
 {U_GROUP}
 
 {EMAIL_SIG}
