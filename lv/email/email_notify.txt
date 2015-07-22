@@ -1,16 +1,16 @@
-Subject: "{SITENAME}" - Email a friend
+Subject: "{SITENAME}" - ziņa no drauga
 
-Hello {TO_USERNAME},
+Sveicināti {TO_USERNAME},
 
-This email was sent from "{SITENAME}" by {FROM_USERNAME} who thought you may be interested in the following topic:
+Šī ziņa ir nosūtīta no "{SITENAME}" lietotāja {FROM_USERNAME} kuram šķiet, ka šī tēma varētu jūs ieinteresēt:
 
 {TOPIC_NAME}
 
-You can find it at:
+Jūs varat atrast to:
 
 {U_TOPIC}
 
-A message from {FROM_USERNAME} may also be included below. Please note that this message has not been seen or approved by the board administrators. If you wish to complain about having received this email please contact the board administrator at {BOARD_CONTACT}. Please quote the message headers when contacting this address.
+Ziņa no {FROM_USERNAME} ir atrodama zemāk. Lūdzu, ņemiet vērā, ka dotā ziņa nav administrācijas pārbaudīta un apstiprināta. Ja vēlaties pasūdzēties par šo ziņu, tad jūs varat sazināties ar administrāciju {BOARD_CONTACT}. Nosūtot vēstuli uz šo adresi, lūgums, citēt saņemtās vēstules virsrakstus.
 
 ----------
 
