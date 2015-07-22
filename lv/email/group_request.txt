@@ -1,9 +1,9 @@
-Subject: A request to join your group has been made
+Subject: Lūgums par iestāšanos grupā
 
-Dear {USERNAME},
+Sveicināti {USERNAME},
 
-The user "{REQUEST_USERNAME}" has requested to join the group "{GROUP_NAME}" you moderate on "{SITENAME}".
-To approve or deny this request for group membership please visit the following link:
+Lietotājs "{REQUEST_USERNAME}" ir nosūtījis lūgumu iestāties grupā "{GROUP_NAME}" kuras līderis jūs esat "{SITENAME}".
+TLai apstiprinātu vai noraidītu šo lūgumu, sekojiet zemāk esošajam linkam:
 
 {U_PENDING}
 
