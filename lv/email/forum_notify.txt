@@ -1,18 +1,18 @@
-Subject: Forum post notification - "{FORUM_NAME}"
+Subject: Jauna ziņa - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Sveicināti {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new reply to the topic "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME !== '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit. You can use the following link to view the last unread reply, no more notifications will be sent until you visit the topic.
+Jūs saņēmāt šo paziņojumu jo sekojiet "{FORUM_NAME}" "{SITENAME}" saitā. Kopš jūsu pēdējā apmeklējuma, ir pievienotas jaunas atbildes tēmā "{TOPIC_TITLE}". Jūs varat izmantot sekojošo linku, lai pārietu pie pēdējām neizlasītajām ziņām. Jauni paziņojumi netiks sūtīti, kamēr nebūsiet apmeklējuši tēmu.
 
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Ja jūs vēlaties apskatīt tēmu, izmantojiet linku:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Ja jūs vēlaties apskatīt sadaļu, izmantojiet linku:
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+Ja jūs vairs nevēlaties sekot līdzi sadaļas jaunumiem, tad uzspiežat "Atrakstīties" linkam sadaļā, vai arī izmantojot sekojošo linku:
 
 {U_STOP_WATCHING_FORUM}
 
