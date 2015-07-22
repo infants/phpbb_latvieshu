@@ -1,17 +1,14 @@
-Subject: Laipni lūgti "{SITENAME}"
+Subject: Welcome to "{SITENAME}"
 
 {WELCOME_MSG}
 
+In compliance with the COPPA, your account is currently inactive.
 
-Saskaņā ar COPPA jūsu lietotāja konts netika aktivizēts.
-
-
-Lūdzu izdrukājiet šo vēstuli un lūdziet saviem vecākiem vai aizbildņiem uzrakstīt datumu un parakstīt. Tad nosūtiet to pa faksu:
+Please print this message and have your parent or guardian sign and date it. Then fax it to:
 
 {FAX_INFO}
 
-
-vai pastu:
+OR mail it to:
 
 {MAIL_INFO}
 
@@ -19,7 +16,7 @@ vai pastu:
 Permission to participate at "{SITENAME}" - {U_BOARD}
 
 Username: {USERNAME}
-E-mail: {EMAIL_ADDRESS}
+Email: {EMAIL_ADDRESS}
 
 I HAVE REVIEWED THE INFORMATION PROVIDED BY MY CHILD AND HEREBY GRANT PERMISSION TO "{SITENAME}" TO STORE THIS INFORMATION. 
 I UNDERSTAND THIS INFORMATION CAN BE CHANGED AT ANY TIME BY ENTERING A PASSWORD. 
@@ -36,13 +33,10 @@ Date: _______________
 ------------------------------ CUT HERE ------------------------------
 
 
+Once the administrator has received the above form via fax or regular mail, your account will be activated.
 
-Kad administrācija saņems pa faksu vai pastu šo formu, jūsu lietotāja konts tiks aktivizēts.
+Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
 
-
-Jūsu parole tika saglabāta drošā veidā datu bāzē un to zināt vienīgi jūs. Ja jūs aizmirsīsiet paroli, tad varēsiet saņemt jaunu, izmantojot šo e-pasta adresi, kuru norādījāt reģistrējoties.
-
-
-Pateicamies par reģistrēšanos.
+Thank you for registering.
 
 {EMAIL_SIG}
