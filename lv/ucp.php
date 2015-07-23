@@ -652,7 +652,7 @@ $lang = array_merge($lang, array(
 		2	=> '%d ziņas',
 	),
 	'VIEW_PREVIOUS_HISTORY'		=> 'Iepriekšējais PZ arhīvā',
-	'VIEW_PREVIOUS_PM'			=> 'Iepriekšējais PM',
+	'VIEW_PREVIOUS_PM'			=> 'Iepriekšējais PZ',
 	'VIEW_PROFILE'				=> 'Skatīt profilu',
 	'VIEW_SIGS'					=> 'Skatīt parakstus',
 	'VIEW_SMILIES'				=> 'Rādīt smaidiņus',
