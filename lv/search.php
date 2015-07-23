@@ -90,6 +90,7 @@ $lang = array_merge($lang, array(
 
 	'SEARCHED_FOR'				=> 'Meklēšanas pieprasījums',
 	'SEARCHED_TOPIC'			=> 'Meklēt tēmā',
+	'SEARCHED_FOG'				=> 'Meklēt Tvaika Miglā',
 	'SEARCHED_QUERY'			=> 'Meklēšanas vaicājums',
 	'SEARCH_ALL_TERMS'			=> 'Meklēt visus vārdus',
 	'SEARCH_ANY_TERMS'			=> 'Meklēt jebkuru no vārdiem',
