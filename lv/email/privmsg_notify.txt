@@ -8,7 +8,7 @@ Jums ir pienākusi jauna privātā ziņa no "{AUTHOR_NAME}" saitā "{SITENAME}",
 
 Lai izlasītu šo ziņu, jūs varat izmantot linku:
 
-{U_INBOX}
+{U_VIEW_MESSAGE}
 
 Jūs varat atteikties no paziņojumu saņemšanas izmainot uzstādījumus lietotāja panelī.
 
